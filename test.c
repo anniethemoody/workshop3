@@ -4,5 +4,5 @@ int main()
     printf("Hello Hello");
     printf ("Hi :)");
     printf ("pulling");
-    printf("testing pulling");
+    printf("test pulling");
 }
